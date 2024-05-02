@@ -1,0 +1,17 @@
+{
+    "name":"Progressive Web Appplication",
+    "short_name":"SPS",
+    "start_url":"index.html",
+
+    "display":"standalone",
+    "background":"black",
+    "scope":". ",
+
+    "id":"/index.html",
+    "description":"This is Progressive Web Application",
+    "icons":[{
+        "src":"images/bird.png",
+        "sizes":"192X192",
+        "type":"image/png"
+    }]
+}
